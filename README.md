@@ -88,7 +88,7 @@ potongan
 gaji_bersih=gaji_pokok−potongan
 ```
 
-4. Output:
+3. Output:
 
    Program mencetak rincian gaji karyawan, termasuk nama, gaji pokok, potongan, dan gaji bersih.
 

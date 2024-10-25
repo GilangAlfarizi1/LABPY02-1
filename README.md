@@ -84,8 +84,9 @@ gaji_bersih
 gaji_pokok
 −
 potongan
-
+```
 gaji_bersih=gaji_pokok−potongan
+```
 
 4. Output:
 

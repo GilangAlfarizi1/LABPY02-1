@@ -380,7 +380,9 @@ dan ini hasil program tersebut:
 
 
 Eksekusi program tersebut:
-![image](https://github.com/user-attachments/assets/1d30951c-7ff2-49cd-a456-6ac1781a3106)
+
+![image](https://github.com/user-attachments/assets/a12adc43-64d5-49d0-8998-06417b3a6e01)
+
 
 
 dan flowchartnya
